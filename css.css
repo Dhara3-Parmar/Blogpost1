@@ -1,0 +1,22 @@
+.container{
+   margin: 10px auto;
+   width: 950px;
+}
+h1{
+   color: purple;
+   font-size: 60px;
+}
+h3{
+   font-size: 40px;
+}
+p{
+   font-size: 30px;
+}
+img{
+   width: 30%;
+   height: 250px;
+}
+.p-one{
+   text-align: right;
+   font-weight: bold;
+}
